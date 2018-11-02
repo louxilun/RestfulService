@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2035
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication1", "WebApplication1\WebApplication1.csproj", "{5DCCB49C-B897-4DFE-935E-48792839F427}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestfulServiceAPI", "WebApplication1\RestfulServiceAPI.csproj", "{5DCCB49C-B897-4DFE-935E-48792839F427}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication1.Tests", "WebApplication1.Tests\WebApplication1.Tests.csproj", "{6D8707A4-0670-4A08-9EB6-CAA4572D24A6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestfulServiceAPI.Tests", "WebApplication1.Tests\RestfulServiceAPI.Tests.csproj", "{6D8707A4-0670-4A08-9EB6-CAA4572D24A6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -109,9 +109,9 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\WebApplication1\WebApplication1.csproj">
+    <ProjectReference Include="..\WebApplication1\RestfulServiceAPI.csproj">
       <Project>{5DCCB49C-B897-4DFE-935E-48792839F427}</Project>
-      <Name>WebApplication1</Name>
+      <Name>RestfulServiceAPI</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
